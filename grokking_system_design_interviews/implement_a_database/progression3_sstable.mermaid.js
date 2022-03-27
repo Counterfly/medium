@@ -9,7 +9,7 @@ erDiagram
     abbrevation location
   }
   Bs {
-    bable locatoin
+    babel locatoin
     back location
   }
   
