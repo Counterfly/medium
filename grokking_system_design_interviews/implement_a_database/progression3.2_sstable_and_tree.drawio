@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-03T15:18:07.016Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36" etag="naOvi--2h5RBRt7sYQmv" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-03T15:19:52.307Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36" etag="i8Xl-fkEwjrMXy-p-kS1" version="17.4.0" type="github">
   <diagram id="tSXa933iV-H4p-sHi9MJ" name="Page-1">
-    <mxGraphModel dx="1298" dy="813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="402" dy="813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -190,9 +190,6 @@
         </mxCell>
         <mxCell id="8DkL4rAYdG8PtnpfrYct-17" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Sparse In-Memory Index&lt;/font&gt;" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;fontStyle=1;labelBorderColor=none;spacing=2;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="176" y="207" width="178" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="8DkL4rAYdG8PtnpfrYct-23" value="" style="shape=stencil(LU07DoAgDD1NE9igkBhHA3oPYnBSSaAD3t7yWfr6fi0YR7ESoKpgPCBaxYPpN6jGySmHt1wpP0PPiQJFsbLr2LUTOS4ZyhnuKDRrKFvd7KA2aKcULL7thtNH/9y9Hw==);whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="10" y="490" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="NjsudWIWoi5uVisPwLOh-1" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-180;fontColor=#00994D;strokeColor=#00994D;" parent="1" vertex="1">
           <mxGeometry x="781" y="250" width="50" height="180" as="geometry" />
